@@ -675,3 +675,16 @@ The graph is created during runtime, making debugging easier and code more flexi
 # Summary
 
 > PyTorch = Tensor + Autograd + Neural Networks + GPU Support
+
+
+#### Custom Dataset
+Custom DataLoader
+Data augmentation
+GPU training
+Mixed precision
+Model checkpointing
+TensorBoard
+Experiment tracking
+Transfer learning
+Hugging Face + PyTorch
+Model deployment
